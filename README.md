@@ -17,7 +17,7 @@ Competitors: Discord
 
 Tecnologie: html, css, php, js
 
-**Link pubblico alla web app:** https://bebop-jam-sessions.lovable.app
+**Link pubblico al prototipo della web app:** https://bebop-jam-sessions.lovable.app
 
 # Analisi dei requisiti
 
