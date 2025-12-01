@@ -88,7 +88,7 @@ Tecnologie: html, css, php, js
 
 ## 4. Membro di una Comunità
 **Azioni possibili:**
-- Scrivire Messaggi
+- Scrivere Messaggi
 - Partecipare Canale Vocale
 - Pubblicare Post Privato/Pubblico
 - Visualizzare Profili Amici
