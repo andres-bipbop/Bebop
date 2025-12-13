@@ -108,5 +108,5 @@ Diagramma UML delle classi:
 
 Schema ER:
 
-[Apri link.pdf](https://github.com/user-attachments/files/24143247/Blank.diagram.pdf)
+[Scarica file.pdf](https://github.com/user-attachments/files/24143247/Blank.diagram.pdf)
 
