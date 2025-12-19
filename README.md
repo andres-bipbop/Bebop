@@ -19,6 +19,8 @@ Tecnologie: html, css, php, js
 
 **Link pubblico al prototipo della web app:** https://bebop-jam-sessions.lovable.app
 
+Pagine disponibili: /auth, /dashboard, /community/:id, /create-community, /profile, /settings, /chat/:friendId
+
 # Analisi dei requisiti
 
 ## 1. Utente Esterno
