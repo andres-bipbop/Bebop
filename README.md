@@ -103,12 +103,9 @@ Pagine disponibili: /auth, /dashboard, /community/:id, /create-community, /profi
 
 
 Diagramma UML dei casi d'uso:
-<img width="1356" height="1151" alt="Casi d&#39;uso applicazione drawio" src="https://github.com/user-attachments/assets/3affaaa7-a7a4-40e3-9c03-9db4f9bd625e" />
 
 Diagramma UML delle classi:
-<img width="3418" height="994" alt="aiuto" src="https://github.com/user-attachments/assets/cd83232d-d789-492b-b1c5-8bfc7a4eb47c" />
 
 Schema ER:
 
-[Scarica file.pdf](https://github.com/user-attachments/files/24143247/Blank.diagram.pdf)
 
